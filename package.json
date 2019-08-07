@@ -2,6 +2,10 @@
   "name": "testcafemysupermarket",
   "version": "1.0.0",
   "description": "Testing MySupermarket webapp, using TestCafe with Typescript",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AsadHasan/TestCafe-MySuperMarket-Tests.git"
+  },
   "scripts": {
     "test": "testcafe all src/tests --skip-js-errors"
   },
