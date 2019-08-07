@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Testing MySupermarket webapp, using TestCafe with Typescript",
   "scripts": {
-    "test": "testcafe all src/tests"
+    "test": "testcafe all src/tests --skip-js-errors"
   },
   "keywords": [
     "TestCafe",
