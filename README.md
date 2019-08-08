@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9afaed6862684025ad61d35aed1b4cac)](https://app.codacy.com/app/asadhasan180/TestCafe-MySuperMarket-Tests?utm_source=github.com&utm_medium=referral&utm_content=AsadHasan/TestCafe-MySuperMarket-Tests&utm_campaign=Badge_Grade_Dashboard)
 [![Build status](https://ci.appveyor.com/api/projects/status/t6iowreeo75daymq?svg=true)](https://ci.appveyor.com/project/AsadHasan/testcafe-mysupermarket-tests)
 
 # TestCafe web automation tests
